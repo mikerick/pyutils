@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Unnecessary files
+trash/
+
+# JetBrains
+.idea/
